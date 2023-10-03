@@ -1,7 +1,7 @@
 # Meu primeiro Flutter
 
 <figure> 
-  <img src="/myapp/web/1_xGmwsliK3NNVdiRAeojeeA.png" width="800px"
+  <img src="myapp\web\1_xGmwsliK3NNVdiRAeojeeA.png" width="800px"
 </figure> 
 
 Esse é um projeto simples que foi desenvolvido durante o bootcamp do Santander, oferecido pela DIO. Fiz o versionamento do projeto como objetivo prático de uma das atividades da plataforma. 
